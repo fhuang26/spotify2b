@@ -1,5 +1,5 @@
 # spotify2b
-Spotify Streamer, stage 2 : resubmit
+Spotify Streamer, stage 2-2
 
 (1) Music playing dialog fragment shows better, more complete view.
     This is item 1 in grader's list to do. Mainly we use maxHeight,
